@@ -10,8 +10,8 @@ TOKEN = os.environ.get("TOKEN", None)
 
 bot = TelegramClient(
         "Whisper",
-        api_id=6,
-        api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e"
+        api_id="1618226",
+        api_hash="49a24a65c8fd8b6ab7592e12bb86c8f6"
         ).start(
                 bot_token=TOKEN
                 )
