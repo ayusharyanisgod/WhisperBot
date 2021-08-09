@@ -1,6 +1,6 @@
 # WhisperBot
 
-A TeleGram Bot to send messages to a person secretly!
+A TeleGram Bot to send messages to a person secretly in Groups!
 
 # Deploy To Heroku
 
